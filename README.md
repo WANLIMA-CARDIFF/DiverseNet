@@ -63,6 +63,17 @@ pip install -r requirements.txt
 
 ## 🏃‍♂️ Usage
 
+## 📦 Pretrained Models
+
+We provide the following pretrained models:
+
+| Model          | Description            | Download Link |
+|----------------|------------------------|----------------|
+| DiverseHead DF | Trained on RoadNet   | [Download](https://drive.google.com/file/d/1mScrNmveUWpM8gALMCGOL2H1KcI08ATS/view?usp=sharing) |
+| DiverseHead DT | Trained on RoadNet   | [Download](https://drive.google.com/file/d/1caDKR2YjAnRstBQipCEh4Gbd-QOazZ3w/view?usp=sharing) |
+
+After downloading, place the `.pth` files into the root directory.
+
 ### Test with DiverseHead
 
 ```bash
