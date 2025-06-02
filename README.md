@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ```bash
 python test.py 
-
+```
 ### Train with DiverseHead
 
 ```bash
