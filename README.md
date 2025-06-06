@@ -19,7 +19,9 @@ arXiv:2311.13716
 
 ## 🧰 Features
 
-- ✅ Lightweight model design for low-memory environments
+![DiverseHead](images/DiverseHead.png)
+
+- ✅ Lightweight framework design
 - ✅ Enhanced pseudo-label generation with model and decision diversity
 - ✅ Modular structure, easy to integrate into existing pipelines
 - ✅ Comprehensive evaluation on multiple benchmark datasets
